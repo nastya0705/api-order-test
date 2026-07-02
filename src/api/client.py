@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 from .endpoints import Endpoints
 
 load_dotenv()
-
+# Горобийченко Анастасия 44-я коргота -Финальный проеект- Инженер по тестированию QA
 class ApiClient:
     """Клиент для взаимодействия с API сервиса 'Самокат'"""
     
